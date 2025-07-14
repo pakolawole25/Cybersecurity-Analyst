@@ -1,4 +1,4 @@
-# Patrick D. Kolawole | IT Systems Manager
+# Patrick D. Kolawole | Cybersecurity Analyst
 
 Experienced IT Systems Leader | Infrastructure & Network Security | Cloud Solutions Architect  
 💼 10+ years transforming business operations through strategic IT management and cyber-resilience
@@ -34,16 +34,16 @@ As an accomplished IT Systems Manager, I specialize in designing, deploying, and
 
 ## 📂 Projects Overview
 
-### 🔍 [Project 1: Wireshark Traffic Analysis - Malicious Download Investigation](./Project_1_Wireshark_Traffic_Analysis2_README.md)
+### 🔍 [Project 1: Wireshark Traffic Analysis - Malicious Download Investigation](./assets/Project_1_Wireshark_Traffic_Analysis_README.md)
 Analyzed malicious network traffic using Wireshark to detect and document Indicators of Compromise (IOCs) following SOC incident response processes.
 
-### 🛡️ [Project 2: Cyber-Resilient Network Design with Cisco Packet Tracer](./Project_2_Secure_Network_Architecture2_README.md)
+### 🛡️ [Project 2: Cyber-Resilient Network Design with Cisco Packet Tracer](./assets/Project_2_Secure_Network_Architecture_README.md)
 Designed and implemented secure, segmented enterprise networks applying VLANs, ACLs, Layer 2 security, and wireless segmentation for compliance and resilience.
 
-### 🔐 [Project 3: Role-Based Access Control (RBAC) Implementation](./Project_3_RBAC_Secure_File_Access2_README.md)
+### 🔐 [Project 3: Role-Based Access Control (RBAC) Implementation](./assets/Project_3_RBAC_Secure_File_Access_README.md)
 Established secure user access control through RBAC using Linux and Windows Server environments, enforcing least-privilege and shared resource protection.
 
-### ✉️ [Project 4: Advanced Phishing Attack Incident Response](./Project_4_Phishing_Incident_Response2_README.md)
+### ✉️ [Project 4: Advanced Phishing Attack Incident Response](./assets/Project_4_Phishing_Incident_Response_README.md)
 Led a simulated phishing incident response following NIST guidelines, analyzing EDR alerts, email logs, and mapping IOCs to provide technical mitigation strategies.
 
 ---
