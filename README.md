@@ -45,7 +45,7 @@ Established secure user access control through RBAC using Linux and Windows Serv
 ### ✉️ [Project 4: Advanced Phishing Attack Incident Response](./assets/Project_4_Phishing_Incident_Response_README.md)
 Led a simulated phishing incident response following NIST guidelines, analyzing EDR alerts, email logs, and mapping IOCs to provide technical mitigation strategies.
 
-### ✉️ [Project 5: Vulnerability Assessment & Exploitation Risk Analysis using OpenVAS](./assets/Project_5_Vulnerability Assessment using OpenVAS_README.md)
+### ✉️ [Project 5: Vulnerability Assessment & Exploitation Risk Analysis using OpenVAS](./assets/Project_5_Vulnerability_Assessment_using_OpenVAS_README.md)
 Executed a structured vulnerability assessment simulating the reconnaissance and enumeration phase of a penetration testing engagement, and documented detailed findings with remediation recommendations in a professional vulnerability assessment report.
 
 ---
