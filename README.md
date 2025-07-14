@@ -12,7 +12,7 @@ Experienced IT Systems Leader | Infrastructure & Network Security | Cloud Soluti
 *Experienced IT cybersecurity agent and systems administrator*
 
 
-Welcome to my cybersecurity portfolio showcasing four practical, hands-on projects completed during my training at Darey.io. These projects demonstrate my technical expertise in network security, incident response, access control, and secure network design through real-world simulations and best practices in addition to my on-the-job experiences in cybersecurity.
+Welcome to my cybersecurity portfolio showcasing five practical, hands-on projects completed during my training at Darey.io. These projects demonstrate my technical expertise in network security, incident response, access control, and secure network design through real-world simulations and best practices in addition to my on-the-job experiences in cybersecurity.
 As an accomplished IT Systems Manager, I specialize in designing, deploying, and optimizing secure and scalable infrastructure solutions across on-premise and cloud environments. My track record includes leading cross-functional teams, implementing ITIL-based service frameworks, and maintaining IT security posture for financial, hospitality, and enterprise environments.
 
 ---
@@ -45,6 +45,9 @@ Established secure user access control through RBAC using Linux and Windows Serv
 
 ### ✉️ [Project 4: Advanced Phishing Attack Incident Response](./assets/Project_4_Phishing_Incident_Response_README.md)
 Led a simulated phishing incident response following NIST guidelines, analyzing EDR alerts, email logs, and mapping IOCs to provide technical mitigation strategies.
+
+### ✉️ [Project 5: Vulnerability Assessment & Exploitation Risk Analysis using OpenVAS](./assets/Project_4_Phishing_Incident_Response_README.md)
+Executed a structured vulnerability assessment simulating the reconnaissance and enumeration phase of a penetration testing engagement, and documented detailed findings with remediation recommendations in a professional vulnerability assessment report.
 
 ---
 ## 📚 Certifications
