@@ -12,7 +12,9 @@ Experienced IT Systems Leader | Infrastructure & Network Security | Cloud Soluti
 *Experienced IT cybersecurity agent and systems administrator*
 
 
-Welcome to my cybersecurity portfolio showcasing five practical, hands-on projects completed during my training at Darey.io. These projects demonstrate my technical expertise in network security, incident response, access control, and secure network design through real-world simulations and best practices in addition to my on-the-job experiences in cybersecurity. As an accomplished IT Systems Manager (with a focus on cybersecurity), I specialize in designing, deploying, and optimizing secure and scalable infrastructure solutions across on-premise and cloud environments. My track record includes leading cross-functional teams, implementing ITIL-based service frameworks, and maintaining IT security posture for financial, hospitality, and enterprise environments.
+I am a cybersecurity analyst and IT systems specialist with a strong track record of securing and optimizing IT environments across financial, hospitality, and enterprise sectors. My expertise spans network security, incident response, access control, and secure infrastructure design, etc. — proven through hands-on projects at Darey.io and real-world experience. I thrive on solving complex security challenges, designing resilient, scalable systems, and aligning IT security with business objectives.
+
+Driven by continuous improvement, I actively sharpen my skills through leading cybersecurity platforms like Cisco, Darey.io, and ISC2, ensuring my knowledge stays current with industry best practices and evolving threats.
 
 ---
 
