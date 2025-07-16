@@ -20,16 +20,16 @@ Driven by continuous improvement, I actively sharpen my skills through leading c
 
 ## 🛠️ Core Skill Sets
 
-- **Cloud Architecture & Migration**
-- **Network Security & Firewall Administration**
-- **Infrastructure & Network Administration**  
-- **Microsoft 365 / Azure / Windows Server Management**  
-- **Virtualization (VMware, Hyper-V)**  
-- **Cloud Architecture & Migration**  
-- **ITIL, Service Desk & Incident Management**  
-- **Cybersecurity & Endpoint Protection**  
-- **Disaster Recovery Planning & BCP**  
-- **Firewall / VPN / IDS Configuration**
+- **Threat Intelligence & Vulnerability Management**
+- **Security Information & Event Management (SIEM)**
+- **Endpoint Detection & Response (EDR)**  
+- **Governance, Risk & Compliance (GRC)**  
+- **Firewall, IDS/IPS & VPN Security Administration**  
+- **Identity & Access Management (IAM)**  
+- **Data Loss Prevention (DLP) & Encryption Technologies**  
+- **Network Security Monitoring & Analysis**  
+- **Security Operations Center (SOC) Monitoring**
+- **Risk Assessment & Compliance (ISO 27001, NIST, CIS Controls)**
 
 ---
 
