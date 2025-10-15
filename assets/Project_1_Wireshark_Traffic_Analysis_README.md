@@ -20,6 +20,7 @@ This project involved a hands-on simulation of investigating a suspected malware
 
 ![Scan Activity Evidence](./assets/C2communication5.252.153.241pas.ps1.JPG)  
 *Scan Activity Sample Screenshots*
+
 ![Scan Activity Evidence](./assets/C2communication23.55.124.236-10.1.17.2googleadsFB-35.84.233.181.JPG)  
 *Scan Activity Sample Screenshots*
 
