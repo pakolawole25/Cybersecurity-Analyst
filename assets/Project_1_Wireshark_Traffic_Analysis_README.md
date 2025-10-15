@@ -22,6 +22,7 @@ assets/C2communication5.252.153.241pas.ps1.JPG
 
 ![Scan Activity Evidence](./assets/C2communication7.JPG)  
 *Scan Activity Sample Screenshots*
+
 ![Scan Activity Evidence](./assets/C2fakeauthenticator.JPG)  
 *Scan Activity Sample Screenshots*
 
