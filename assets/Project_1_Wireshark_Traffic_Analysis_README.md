@@ -14,3 +14,26 @@ This project involved a hands-on simulation of investigating a suspected malware
 | Project                      | Skills                                   | Tools               | Link                     |
 |-------------------------------|------------------------------------------|----------------------|---------------------------|
 | Wireshark Traffic Analysis    | Network Forensics, Malware Analysis, IOC Identification | Wireshark, OSINT       | [Project 1 Link](#)        |
+
+![Scan Activity Evidence](./assets/C2communication5.252.153.241Teamviewer.JPG)  
+*Scan Activity Sample Screenshots*
+
+![Scan Activity Evidence](./assets/C2communication5.252.153.241pas.ps1.JPG)  
+*Scan Activity Sample Screenshots*
+![Scan Activity Evidence](./assets/C2communication23.55.124.236-10.1.17.2googleadsFB-35.84.233.181.JPG)  
+*Scan Activity Sample Screenshots*
+
+![Scan Activity Evidence](./assets/Project1.JPG)  
+*Scan Activity Sample Screenshots*
+
+![Scan Activity Evidence](./assets/prj1Evid-pix1.jpg)  
+*Scan Activity Sample Screenshots*
+
+![Scan Activity Evidence](./assets/prj1Evid-pix2.jpg)  
+*Scan Activity Sample Screenshots*
+
+![Scan Activity Evidence](./assets/prj1Evid-pix3.jpg)  
+*Scan Activity Sample Screenshots*
+
+![Scan Activity Evidence](./assets/prj1Evid-pix4.jpg)  
+*Scan Activity Sample Screenshots*
